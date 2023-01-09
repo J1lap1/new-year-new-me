@@ -105,10 +105,9 @@ background-position: center
 height: 300px;
 margin-bottom: 130px;
 border-radius: 8px;
-
 }
 .contact p{
-    font-weight: 700;
+font-weight: 700;
 font-size: 40px;
 color: #FFFFFF;
 width: 459px;
@@ -124,4 +123,46 @@ border: 0;
 font-weight: 600;
 font-size: 20px;
 color: #F15B22;
+}
+.footer{
+    background-color: #151414;
+    width: 975px;
+height: 577px;
+display: flex;
+gap: 350px;
+color: #F8F8F8;
+padding: 130px 230px;
+}
+.footer-para-one{
+    width: 300px;
+height: 87px;
+}
+.future{
+    font-weight: 700;
+font-size: 45px;
+}
+.socials{
+    padding-top: 32px;
+}
+.socials img{
+    margin-right: 10px;
+}
+.email{
+    padding-top: 25px;
+}
+.phone{
+    padding-top: 17px;
+}
+.subscribe{
+    font-weight: 600;
+font-size: 25px;
+padding-bottom: 32px;
+}
+.subscribe-btn{
+    border: 0;
+    padding: 20px 30px;
+    color: #F15B22;
+    background-color: #F8F8F8;
+    border-radius: 8px;
+    margin-top: 16px;
 }
