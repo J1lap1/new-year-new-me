@@ -31,6 +31,48 @@ padding: 20px 25px;
 border-radius: 5px;
 background-color: #FD6E0A;
 color: #FFFFFF;
-margin-right: 75px;
+margin-right: 59px;
 margin-bottom: 100px;
+}
+/* failures styles */
+.failures-container{
+display: flex;
+align-items: center;
+gap: 57px;
+text-align: left;
+margin-top: 128px;
+padding:0 264px;
+margin-bottom: 129px;
+}
+.failure-elaboration{
+
+}
+.failure-header{
+    font-weight: 700;
+    font-size: 40px;
+    width: 288px;
+height: 94px;
+color: #151414;
+margin-left: 40px;
+}
+.failure-description{
+    font-weight: 400;
+    font-size: 16px;
+    margin-top: 24px;
+    color: #444343;
+    margin-left: 40px;
+}
+.failures-list{
+    list-style: none;
+    gap: 10px;
+    
+    
+}
+.failures-list li{
+    display: flex;
+    align-items: center;
+    gap: 5px; 
+}
+.failures-list li p{
+    color: color: #444343;;
 }
