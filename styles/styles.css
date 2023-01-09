@@ -87,14 +87,41 @@ margin-bottom: 50px;
     margin-right: 150px;
     margin-bottom: 112px;
 }
-.contact{
-    margin-left: 260px;
-    background-image: url(../images/watch.png), url(../images/gradient1.png);
-}
+
 .plan-title{
     font-weight: 700;
 font-size: 30px;
 color: #151414;
 margin-top: 24px;
 margin-bottom: 16px;
+}
+.contact{
+  margin-left: 190px;
+justify-content: space-around;
+background-image: url(../images/watch.png);
+background-position: center
+  background-repeat: no-repeat;
+  width: 1050px;
+height: 300px;
+margin-bottom: 130px;
+border-radius: 8px;
+
+}
+.contact p{
+    font-weight: 700;
+font-size: 40px;
+color: #FFFFFF;
+width: 459px;
+height: 94px;
+padding: 59px 0 24px 64px;
+}
+.call-now{
+    margin-left: 64px;
+    padding: 20px 36px;
+    background: #FFFFFF;
+border-radius: 5px;
+border: 0;
+font-weight: 600;
+font-size: 20px;
+color: #F15B22;
 }
