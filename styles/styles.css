@@ -38,14 +38,11 @@ margin-bottom: 100px;
 .failures-container{
 display: flex;
 align-items: center;
-gap: 57px;
+gap: 47px;
 text-align: left;
 margin-top: 128px;
 padding:0 264px;
 margin-bottom: 129px;
-}
-.failure-elaboration{
-
 }
 .failure-header{
     font-weight: 700;
@@ -74,5 +71,30 @@ margin-left: 40px;
     gap: 5px; 
 }
 .failures-list li p{
-    color: color: #444343;;
+    color: color: #444343;
+}
+.plans-header{
+text-align: center;
+font-size: 48px;
+font-weight: 700;
+margin-bottom: 50px;
+}
+.plans{
+    text-align: center;
+    display: flex;
+    justify-content: space-evenly;
+    margin-left:150px;
+    margin-right: 150px;
+    margin-bottom: 112px;
+}
+.contact{
+    margin-left: 260px;
+    background-image: url(../images/watch.png), url(../images/gradient1.png);
+}
+.plan-title{
+    font-weight: 700;
+font-size: 30px;
+color: #151414;
+margin-top: 24px;
+margin-bottom: 16px;
 }
